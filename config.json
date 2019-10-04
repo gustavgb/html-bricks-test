@@ -1,4 +1,7 @@
 {
   "sourceDir": "src",
-  "buildDir": "dist"
+  "buildDir": "dist",
+  "plugins": [
+    "plugin-sass"
+  ]
 }
