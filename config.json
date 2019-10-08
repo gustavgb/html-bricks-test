@@ -2,6 +2,7 @@
   "sourceDir": "src",
   "buildDir": "dist",
   "plugins": [
-    "plugin-sass"
+    "plugin-sass",
+    "plugin-inline-css"
   ]
 }
