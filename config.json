@@ -3,6 +3,7 @@
   "buildDir": "dist",
   "plugins": [
     "plugin-sass",
+    "plugin-postcss",
     "plugin-inline-css"
   ]
 }

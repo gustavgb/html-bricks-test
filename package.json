@@ -10,5 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    ">= 0.25%"
+  ]
 }
