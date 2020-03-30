@@ -5,6 +5,7 @@
     "plugin-sass",
     "plugin-postcss",
     "plugin-inline-css",
+    "plugin-translation",
     "plugin-html-minify"
   ],
   "ignoreFileNames": [
